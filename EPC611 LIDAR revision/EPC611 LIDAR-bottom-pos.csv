@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Single-Wire Debug","Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal",92.600000,-112.000000,180.000000,bottom
+"J2","Encoder","Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal",83.000000,-85.000000,90.000000,bottom
+"J5","PWM Outputs","Molex_PicoBlade_53261-0871_1x08-1MP_P1.25mm_Horizontal",82.900000,-99.800000,90.000000,bottom
